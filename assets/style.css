@@ -1,0 +1,23 @@
+body {
+  font-family: system-ui, sans-serif;
+  background: #0f172a;
+  color: #e5e7eb;
+  margin: 0;
+  padding: 2rem;
+}
+
+header {
+  margin-bottom: 2rem;
+}
+
+a {
+  color: #38bdf8;
+  text-decoration: none;
+}
+
+section {
+  background: #020617;
+  padding: 1rem;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+}
